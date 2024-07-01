@@ -1,7 +1,5 @@
 # unityProjects
 
-> My unity projects (only one so far)
-
 ### Flappy block
 
 Flappy bird based game. My first Unity project.
