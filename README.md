@@ -1,4 +1,4 @@
-# unityProjects
+# Unity Projects
 
 > ### Flappy block
 
@@ -17,3 +17,11 @@ Main goal - survive 100 waves of monsters (rly hard)
 Minesweeper game. Nothing special. _(I love minesweeper)_
 
 U can change: board size, tile size, mines percentage
+
+---
+
+> **How to install?**
+
+Download `build` folder from the game u want to try (either with special tools or just by downloading whole repo)
+
+To play game open `.exe` file
